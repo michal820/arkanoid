@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code files
+.vscode/
+
+# Maven/Gradle directories
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
